@@ -73,7 +73,9 @@ function _getNepaliDate() {
 	Mainloop.timeout_add_seconds(1, _getNepaliDate);
 }
 
-function init() {
+function init() { }
+
+function enable() {
 	button = new St.Bin({
 		style_class: 'panel-button',
 		reactive: true,
@@ -85,9 +87,6 @@ function init() {
 
 	_getNepaliDate();
 
-}
-
-function enable() {
 	Main.panel._rightBox.insert_child_at_index(button, -1);
 }
 
