@@ -1,0 +1,10 @@
+{
+  "description": "Shows nepali date on the panel.",
+  "name": "Nepali Calendar",
+  "shell-version": [
+    "40"
+  ],
+  "url": "",
+  "uuid": "nepali-date@biplab",
+  "version": 1
+}
