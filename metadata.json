@@ -1,6 +1,6 @@
 {
   "description": "Shows nepali date on the panel.",
-  "name": "Nepali Calendar",
+  "name": "Nepali Date",
   "shell-version": [
     "40"
   ],
