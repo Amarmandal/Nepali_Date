@@ -1,10 +1,10 @@
 {
   "description": "Shows nepali date on the panel.",
-  "name": "Nepali Calendar",
+  "name": "Nepali Date",
   "shell-version": [
     "40"
   ],
-  "url": "https://github.com/Biplab-Dutta/Nepali-Calendar/tree/master",
+  "url": "https://github.com/Biplab-Dutta/Nepali-Calendar",
   "uuid": "nepali-date@biplab",
   "version": 1
 }
