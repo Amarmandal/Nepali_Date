@@ -1,5 +1,6 @@
 const St = imports.gi.St;
 const Main = imports.ui.main;
+const Tweener = imports.tweener.tweener;
 const Mainloop = imports.mainloop;
 
 let text, button;
@@ -86,9 +87,9 @@ function enable() {
 
 	_getNepaliDate();
 
-	Main.panel._rightBox.insert_child_at_index(button, -1);
+	Main.panel._centerBox.insert_child_at_index(button, -1);
 }
 
 function disable() {
-	Main.panel._rightBox.remove_child(button);
+	Main.panel._centerBox.remove_child(button);
 }

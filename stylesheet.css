@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,500;1,400&display=swap');
+
 .nepcal-label {
-    font-size: 15px;
-    font-weight: bold;
-    color: white;
-    padding: 2px 5px;
+    font-size: 14px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+    font-style: italic;
+    color: #f1f3f4;
+    padding: 4px;
 }
