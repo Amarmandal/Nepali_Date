@@ -1,6 +1,5 @@
 const St = imports.gi.St;
 const Main = imports.ui.main;
-const Tweener = imports.tweener.tweener;
 const Mainloop = imports.mainloop;
 
 let text, button;
